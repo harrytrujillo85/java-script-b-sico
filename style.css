@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 
+  border-box;
+}
+
+p{
+  color:rgb(42, 56, 165)
+}
+
+div{
+  border: 8px solid #0f859d;
+}
+
+.clase-caja {
+  border: 8px solid #e8ac89;
+  background-color: #07b0df;
+}
+
+.clase-parrafo{
+  color: #ffff;
+}
+
+#fotografia {
+  border: 8px solid #df07a5;
+  width: 300px;
+}
+
+#camara{
+  border: 8px solid #df07a5;
+  width: 300px;
+}
