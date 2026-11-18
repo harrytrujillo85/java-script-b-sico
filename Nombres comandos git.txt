@@ -1,0 +1,19 @@
+git init 
+git branch -M
+git add .
+git commit -m "nombre de version"
+git push
+git pull
+git status
+
+git init: "es para inivializar un repositorio local"
+git branch -M main "sirve para renombrar la rama por main"
+gitmadd . "Este comando sirve para agregar todos los archivos"
+git commit -m "firs commit" (Este comando sirve para nombrar la version de subidad)
+git push "Sube los cambios al repositorio en la web o nube"
+git pull "Jala los cambios del repositorio web"
+git status "Comprueba si hay cambios o el estado de los archivos"
+
+Configuracion del usuario local git
+git config -- local user.name "Harrinson"
+git config -- local user.name "harrytrujillo85@gmail.com"
